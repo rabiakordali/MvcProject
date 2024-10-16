@@ -30,8 +30,8 @@ namespace EntityLayer.Concreate
         
 
 
-        public ICollection<Heading> Headings { get; set; }
-        public ICollection<Content> Contents { get; set; }
+     //   public ICollection<Heading> Headings { get; set; }
+       // public ICollection<Content> Contents { get; set; }
 
     }
 }
